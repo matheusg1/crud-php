@@ -188,8 +188,6 @@
                                 <input type="text" name="pagina" class="form-control col-xs-1" id="1" aria-label="Recipient's username" aria-describedby="button-addon2" value="<?php echo $pc ?>">
                                 <button class="btn btn-outline-primary" name="btnPag" type="submit" id="button-addon2">Ir</button><div class="col-form-label col-form-label-md fs-4 px-3">de <?php echo ceil($tp) ?></div>
                             </div>
-                            <a href="baixaPlanilha.php" class="btn btn-outline-primary mx-2 rounded-0" name="btnPlanilha" type="button" id="button-addon2" aria-label="Recipient's username" aria-describedby="button-addon2" target="_blank">Baixar Planilha</a>
-                            <a href='logout.php' type="button" name="botaoLogout" class="btn btn-outline-primary mx-2 rounded-0" >Deslogar</a>
                         </div>
                     </form>
                 </div>
